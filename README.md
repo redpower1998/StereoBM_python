@@ -6,7 +6,8 @@ An implementation of the classic stereo vision Block Matching(BM) algorithm. Pyt
 This code implements a classic stereo BM algorithm.
 This is not a good implementation. But it is simple enough.
 
-
+[![Demo1](disparityRGB.bmp)]
+[![Demo2](disparityRGB2.bmp)]
 
 #### System Requirements ####
 

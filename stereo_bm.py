@@ -117,8 +117,8 @@ def left_right_check(disp_left, disp_right):
 
 print('Starting StereoBM')
 num_disparity = 32  # 视差范围
-#left_image_path = 'src/left.jpg'
-#right_image_path = 'src/right.jpg'
+left_image_path = 'left.jpg'
+right_image_path = 'right.jpg'
 
 print('Read images')
 start_time = time.time()
@@ -173,4 +173,4 @@ cv2.imwrite('disparityRGB.bmp', disparity_color)
 # Display result
 cv2.imshow('Left', image_left)
 cv2.imshow('Disparity RGB', disparity_color)
- cv2.waitKey(60000)
+cv2.waitKey(60000)
