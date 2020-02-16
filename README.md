@@ -1,10 +1,12 @@
 # StereoBM_python
+
 ===
 An implementation of the classic stereo vision Block Matching(BM) algorithm. Python version
 ===
-[中国镜像](https://gitee.com/redpower/StereoBM_python)  
 This code implements a classic stereo BM algorithm.
 This is not a good implementation. But it is simple enough.
+
+#### [中国镜像](https://gitee.com/redpower/StereoBM_python) ####
 
 [![Demo1](disparityRGB.bmp)]
 [![Demo2](disparityRGB2.bmp)]
